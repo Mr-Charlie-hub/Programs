@@ -1,2 +1,2 @@
 # Programs
-For learning
+Palindrome of a number without using %,/.
